@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DAM_KevinCaman</string>
+    <string name="titu">Examen de Admisión 2023</string>
+    <string name="ap">Apellidos y Nombres</string>
+    <string name="apn" />
+    <string name="ce">Correo Electrónico</string>
+    <string name="coe" />
+    <string name="c">Clave</string>
+    <string name="cl" />
+    <string name="fn">Fecha de Nacimiento</string>
+    <string name="fnt" />
+    <string name="cr">Carrera</string>
+    <string name="is">Ingeniería de Sistemas</string>
+    <string name="ia">Ingeniería Ambiental</string>
+    <string name="im">Ingeniería Mecánica</string>
+    <string name="ad">Administración</string>
+    <string name="pr">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="r">Radio</string>
+    <string name="i">Internet</string>
+    <string name="am">Amigo</string>
+    <string name="pb">Publicidad</string>
+    <string name="btn">Enviar</string>
+    <string name="pl">Publicidad</string>
+    <string name="ami">Amigo</string>
+</resources>
